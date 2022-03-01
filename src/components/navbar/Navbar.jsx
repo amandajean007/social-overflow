@@ -5,7 +5,7 @@ export default function Navbar() {
 	return (
 		<div className="navbarContainer">
 			<div className="navbarLeft">
-				<span className="logo">Overflow</span>
+				<span className="logo">Social Overflow</span>
 			</div>
 			<div className="navbarCenter">
 				<div className="searchbar">
